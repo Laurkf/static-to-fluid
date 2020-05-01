@@ -59,20 +59,25 @@ footer {
 /* Change the background colors below */
 
 @media (min-width: 768px) {
+
+
   header {
     background-color: AntiqueWhite;
   }
 
   #column-1 {
     background-color: MistyRose;
+    width:50%;
   }
 
   #column-2 {
     background-color: DarkSalmon;
+    width:50%;
   }
 
   #column-3 {
     background-color: DarkSlateGrey;
+    width:100%;
   }
 
   footer {
@@ -90,14 +95,17 @@ footer {
 
   #column-1 {
     background-color: LightSeaGreen;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: DarkSeaGreen;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: MintCream;
+    width: 33.3%;
   }
 
   footer {
